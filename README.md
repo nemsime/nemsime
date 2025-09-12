@@ -2,5 +2,5 @@
 
 ## About Me
 
-I'm a developer who enjoys building calm, functional user experiences...
+I'm a developer interested in software engineering and game development...
 
